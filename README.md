@@ -1,6 +1,5 @@
-#Projeto sendo desenvolvido por um grupo de estagiarios para Mogi2Go
 
-# ChatterBot
+# Projeto sendo desenvolvido com ChatterBot por um grupo de estagiarios para Mogi2Go 
 
 ChatterBot é um mecanismo de diálogo conversacional baseado em aprendizado de máquina construído em
 Python, que torna possível gerar respostas com base em coleções de
