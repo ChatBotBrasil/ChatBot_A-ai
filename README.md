@@ -1,4 +1,3 @@
-! [ChatterBot: Aprendizado de máquina em Python] (https://i.imgur.com/b3SCmGT.png)
 
 # ChatterBot
 
