@@ -1,3 +1,4 @@
+#Projeto sendo desenvolvido por um grupo de estagiarios para Mogi2Go
 
 # ChatterBot
 
